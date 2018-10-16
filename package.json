@@ -1,0 +1,22 @@
+{
+  "name": "advanced_javascript",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fauziah-Shanina/Advance-javascript.git"
+  },
+  "keywords": [
+    "ilovemyself9515-github"
+  ],
+  "author": "Fauziah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fauziah-Shanina/Advance-javascript/issues"
+  },
+  "homepage": "https://github.com/Fauziah-Shanina/Advance-javascript#readme"
+}
